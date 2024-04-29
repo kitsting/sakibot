@@ -7,7 +7,7 @@ If you want to use the bot for some reason, make a file called `.env` in the bot
 
 `TOKEN = "Your token"` - Replace this with a valid bot token
 
-To use the `/clip` command, be sure to populate the `/clips` folder with `.mp4` files.
+To use the `/clip` command, be sure to create a folder named `clips`, and populate it with `.mp4` files.
 
 ### Currently available commands:
 
